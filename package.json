@@ -1,6 +1,6 @@
 {
   "name": "clang-flags",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "A library for determining the clang compilation flags needed for a source file",
   "main": "lib/clang-flags.coffee",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kev/clang-flags.git"
+    "url": "https://github.com/abyss7/clang-flags.git"
   },
-  "author": "Kevin Smith",
+  "author": "Ivan Lezhankin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Kev/clang-flags/issues"
+    "url": "https://github.com/abyss7/clang-flags/issues"
   },
-  "homepage": "https://github.com/Kev/clang-flags",
+  "homepage": "https://github.com/abyss7/clang-flags",
   "dependencies": {
   },
   "devDependencies": {
